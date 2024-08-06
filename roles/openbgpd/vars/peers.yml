@@ -736,6 +736,18 @@ lg_peers:
     asn: 32554
     ipv4: 216.162.82.13
     ipv6: 2607:6b40:2000:ffff:401::2
+  WAVEX:
+    asn: 328977
+    ipv4: 102.217.156.1
+    ipv6: 2c0f:6300::
+  WAVEX2:
+    asn: 328977
+    ipv4: 102.217.156.2
+    ipv6: 2c0f:6300:0:ffa::
+  WAVEX3:
+    asn: 328977
+    ipv4: 102.217.156.8
+    ipv6: 2c0f:6300:0:ff6::
 
 readonly_peers:
   BGPDOTTOOLS:
