@@ -795,6 +795,10 @@ lg_peers:
     asn: 328977
     ipv4: 102.217.156.2
     ipv6: '2c0f:6300:eadc::2'
+  WOFBIT_NBO1_PE1:
+    asn: 207113
+    ipv4: 102.217.159.84
+    ipv6: '2c0f:6300:eade:100f::2'
   WD61:
     asn: 20495
     ipv4: 217.148.191.1
